@@ -5,8 +5,5 @@
     <key>ru</key>
     <value>Доп работа с формами</value>
   </synonym>
-  <clientManagedApplication>true</clientManagedApplication>
   <server>true</server>
-  <externalConnection>true</externalConnection>
-  <clientOrdinaryApplication>true</clientOrdinaryApplication>
 </mdclass:CommonModule>
