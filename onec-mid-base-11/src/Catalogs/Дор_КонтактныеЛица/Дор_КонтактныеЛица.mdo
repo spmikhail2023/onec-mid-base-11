@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Catalog xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="6f476363-0af6-4b07-a9ff-f3173953cbea">
+  <producedTypes>
+    <objectType typeId="8a354600-dfb0-4442-8e11-2d1a446edec0" valueTypeId="72258bf0-2c33-4cf3-93d8-7688ec0bac45"/>
+    <refType typeId="5a21022a-1d5e-42d2-955e-2f7da392c812" valueTypeId="8182cf99-848b-4955-9fd4-30d2fb088d9d"/>
+    <selectionType typeId="bae9fc98-2ad1-4f7a-89cb-3e68ad0884b8" valueTypeId="e59b3fab-3fc6-469f-983a-3f7ec9470ca9"/>
+    <listType typeId="c346e0a8-ef4c-402a-a485-3dfb3b175294" valueTypeId="4485ee2e-2c3f-446d-8fe5-af7085920f9e"/>
+    <managerType typeId="571506ef-0204-414b-af49-57aa2d1c1fe9" valueTypeId="f7af5f11-e993-4378-a819-b64fa87301eb"/>
+  </producedTypes>
+  <name>Дор_КонтактныеЛица</name>
+  <synonym>
+    <key>ru</key>
+    <value>Дор контактные лица</value>
+  </synonym>
+  <useStandardCommands>true</useStandardCommands>
+  <inputByString>Catalog.Дор_КонтактныеЛица.StandardAttribute.Code</inputByString>
+  <inputByString>Catalog.Дор_КонтактныеЛица.StandardAttribute.Description</inputByString>
+  <fullTextSearchOnInputByString>DontUse</fullTextSearchOnInputByString>
+  <createOnInput>Use</createOnInput>
+  <dataLockControlMode>Managed</dataLockControlMode>
+  <fullTextSearch>Use</fullTextSearch>
+  <levelCount>2</levelCount>
+  <foldersOnTop>true</foldersOnTop>
+  <codeLength>9</codeLength>
+  <descriptionLength>25</descriptionLength>
+  <codeType>String</codeType>
+  <codeAllowedLength>Variable</codeAllowedLength>
+  <checkUnique>true</checkUnique>
+  <autonumbering>true</autonumbering>
+  <defaultPresentation>AsDescription</defaultPresentation>
+  <editType>InDialog</editType>
+  <choiceMode>BothWays</choiceMode>
+</mdclass:Catalog>
