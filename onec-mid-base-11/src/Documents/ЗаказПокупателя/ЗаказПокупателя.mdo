@@ -198,7 +198,7 @@
     <name>Доп_КонтактноеЛицо</name>
     <synonym>
       <key>ru</key>
-      <value>Доп контактное лицо</value>
+      <value>Контактное лицо</value>
     </synonym>
     <type>
       <types>CatalogRef.Доп_КонтактныеЛица</types>
@@ -213,7 +213,7 @@
     <name>Доп_Скидка</name>
     <synonym>
       <key>ru</key>
-      <value>Доп скидка</value>
+      <value>Скидка</value>
     </synonym>
     <type>
       <types>String</types>
