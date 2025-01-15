@@ -7,14 +7,14 @@
     <listType typeId="c346e0a8-ef4c-402a-a485-3dfb3b175294" valueTypeId="4485ee2e-2c3f-446d-8fe5-af7085920f9e"/>
     <managerType typeId="571506ef-0204-414b-af49-57aa2d1c1fe9" valueTypeId="f7af5f11-e993-4378-a819-b64fa87301eb"/>
   </producedTypes>
-  <name>Дор_КонтактныеЛица</name>
+  <name>Доп_КонтактныеЛица</name>
   <synonym>
     <key>ru</key>
-    <value>Дор контактные лица</value>
+    <value>Доп контактные лица</value>
   </synonym>
   <useStandardCommands>true</useStandardCommands>
-  <inputByString>Catalog.Дор_КонтактныеЛица.StandardAttribute.Code</inputByString>
-  <inputByString>Catalog.Дор_КонтактныеЛица.StandardAttribute.Description</inputByString>
+  <inputByString>Catalog.Доп_КонтактныеЛица.StandardAttribute.Code</inputByString>
+  <inputByString>Catalog.Доп_КонтактныеЛица.StandardAttribute.Description</inputByString>
   <fullTextSearchOnInputByString>DontUse</fullTextSearchOnInputByString>
   <standardAttributes>
     <dataHistory>Use</dataHistory>
